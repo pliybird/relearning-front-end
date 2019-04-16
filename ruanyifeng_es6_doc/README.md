@@ -1,3 +1,5 @@
+### 阮一峰老师ES6入门 [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)
+
 ### 目录
 
 * [1. ECMAScript 6简介](docs/intro.md)
