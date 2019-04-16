@@ -1,7 +1,14 @@
 ### 写在前面
-*做了几年前端，还是两眼摸黑，最近准备将前端js部分整体梳理一遍，这个库上面会不定期更新一些收集的文章，或者原创文章*
+*这个库上面会不定期更新一些收集的文章，或者原创文章，这个库也欢迎想要提高自己基础同行者参与*
 #### js基础部分
 #### ReactNative
+- 工具部分
+
+|工具|github地址|官网|
+|---|---|---|
+|一键生成移动端桌面icon|[链接地址](https://github.com/zhanghuanchong/icon-workshop)|[官网](https://icon.wuruihong.com/)|
+|图片剪裁 react-native-image-crop-picker|[链接地址](https://github.com/ivpusic/react-native-image-crop-picker)|[官网](https://github.com/ivpusic/react-native-image-crop-picker)|
+|启动页react-native-splash-screen|[链接地址](https://github.com/crazycodeboy/react-native-splash-screen)|[官网](https://github.com/crazycodeboy/react-native-splash-screen)|
 #### Vue
 #### 前端必学基础知识
 - [【原创】git基本操作](https://www.jianshu.com/p/e93deccca93c)
