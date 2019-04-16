@@ -3,6 +3,7 @@
 #### js基础部分
 - [【推荐】MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [【推荐】MDN HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+- [【ES6】阮一峰老师ES6入门](/ruanyifeng_es6_doc)
 #### ReactNative
 - 工具部分
 
