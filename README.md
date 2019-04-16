@@ -21,3 +21,4 @@
 - [【转】【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390#heading-0)
 - [【转】Promise的源码实现（完美符合Promise/A+规范）](https://juejin.im/post/5c88e427f265da2d8d6a1c84)
 - [【转】嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
+- [【转】「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
