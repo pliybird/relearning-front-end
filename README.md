@@ -1,6 +1,8 @@
 ### 写在前面
 *这个库上面会不定期更新一些收集的文章，或者原创文章，这个库也欢迎想要提高自己基础同行者参与*
 #### js基础部分
+- [【推荐】MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [【推荐】MDN HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 #### ReactNative
 - 工具部分
 
