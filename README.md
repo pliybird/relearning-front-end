@@ -2,8 +2,9 @@
 - [【推荐】MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [【推荐】MDN HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 - [【ES5】阮一峰老师JavaScript基础](https://wangdoc.com/javascript)
-- [【ES6】阮一峰老师ES6入门](/ruanyifeng_es6_doc)
-- [【中文版】You-Dont-Know-JS-CN](https://github.com/CuiFi/You-Dont-Know-JS-CN) [【英文原版】You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [【ES6】阮一峰老师ES6入门](/Ruanyifeng-ES6-Doc)
+- [【中文版】You-Dont-Know-JS-CN](/You-Dont-Know-JS)---[原库地址](https://github.com/CuiFi/You-Dont-Know-JS-CN)
+- [【英文原版】You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 #### ReactNative
 - 工具部分
 
