@@ -22,6 +22,7 @@
 - [【转】Promise的源码实现（完美符合Promise/A+规范）](https://juejin.im/post/5c88e427f265da2d8d6a1c84)
 - [【转】嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)
 - [【转】「中高级前端面试」JavaScript手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6)
+- [【知乎Live】狼叔：如何正确的学习Node.js](https://i5ting.github.io/How-to-learn-node-correctly/)
 
 #### 文章收藏
 - [知乎live — justjavac《前端工程师的入门与进阶》](https://shenbao.github.io/2017/04/22/justjavac-live/)
